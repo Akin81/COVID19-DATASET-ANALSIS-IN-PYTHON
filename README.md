@@ -3,4 +3,4 @@ The intention here is to use pandas to analyse, filter and sort the covid19 data
 
 i sourced the dataset from kaggle.com, imported using pandas, check null values, sorted and filtered with the necessary pandas functions and attributes.
 
-here i analyzed using  sort_values() ,groupby(), sum(), to mention a few
+Here, i analyzed using  sort_values() ,groupby(), sum(), to mention a few
